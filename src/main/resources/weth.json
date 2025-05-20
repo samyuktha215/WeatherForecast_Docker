@@ -1,0 +1,727 @@
+{
+  "updated": 1746000000000,
+  "parameter": {
+    "key": "1",
+    "name": "Lufttemperatur",
+    "summary": "momentanvärde, 1 gång/tim",
+    "unit": "celsius"
+  },
+  "period": {
+    "key": "latest-hour",
+    "from": 1745996401000,
+    "to": 1746000000000,
+    "summary": "Data från senaste timmen",
+    "sampling": "Ej angivet"
+  },
+  "link": [
+    {
+      "href": "https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/1/station-set/all/period/latest-hour/data.json",
+      "rel": "data",
+      "type": "application/json"
+    },
+    {
+      "href": "https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/1/station-set/all/period/latest-hour/data.xml",
+      "rel": "data",
+      "type": "application/xml"
+    },
+    {
+      "href": "https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/1/station-set/all/period/latest-hour/data.csv",
+      "rel": "data",
+      "type": "text/plain"
+    },
+    {
+      "href": "https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/1/station-set/all/period/latest-hour.atom",
+      "rel": "period",
+      "type": "application/atom+xml"
+    },
+    {
+      "href": "https://opendata-catalog.smhi.se/md/25080190-38ba-4279-a65d-d9ef8d0bf949",
+      "rel": "iso19139",
+      "type": "application/vnd.iso.19139+xml"
+    },
+    {
+      "href": "https://opendata-catalog.smhi.se/md/c6ae10b6-6a18-4e15-9444-fbd746f4609d",
+      "rel": "iso19139",
+      "type": "application/vnd.iso.19139+xml"
+    }
+  ],
+  "station": [
+    {
+      "key": "188790",
+      "name": "Abisko Aut",
+      "owner": "Polarforskningssekretariatet",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1538352000000,
+      "to": 1746001210000,
+      "height": 392.235,
+      "latitude": 68.3538,
+      "longitude": 18.8164,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "-6.3",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "158990",
+      "name": "Abraur",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 812505600000,
+      "to": 1746001210000,
+      "height": 368.079,
+      "latitude": 65.9857,
+      "longitude": 18.9195,
+      "value": []
+    },
+    {
+      "key": "97280",
+      "name": "Adelsö A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 817776000000,
+      "to": 1746001210000,
+      "height": 5.612,
+      "latitude": 59.3579,
+      "longitude": 17.5213,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "10.7",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "11046",
+      "name": "Anilla",
+      "owner": "SMHI",
+      "ownerCategory": "NATIONAL",
+      "measuringStations": "ADDITIONAL",
+      "from": 1727740800000,
+      "to": 1746001211000,
+      "height": 0.0,
+      "latitude": 56.2234,
+      "longitude": 14.0732,
+      "value": []
+    },
+    {
+      "key": "167710",
+      "name": "Arjeplog A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 959817600000,
+      "to": 1746001210000,
+      "height": 430.839,
+      "latitude": 66.0513,
+      "longitude": 17.8396,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "0.6",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "159880",
+      "name": "Arvidsjaur A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 823132800000,
+      "to": 1746001210000,
+      "height": 382.45,
+      "latitude": 65.5941,
+      "longitude": 19.2642,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "1.4",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "92410",
+      "name": "Arvika A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 820454400000,
+      "to": 1746001210000,
+      "height": 65.758,
+      "latitude": 59.6743,
+      "longitude": 12.6354,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "12.2",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "106070",
+      "name": "Avesta",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 220924800000,
+      "to": 1746001210000,
+      "height": 99.043,
+      "latitude": 60.1413,
+      "longitude": 16.1715,
+      "value": []
+    },
+    {
+      "key": "84340",
+      "name": "Axstål",
+      "owner": "Försvarsmakten",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1149120000000,
+      "to": 1746001210000,
+      "height": 88.5,
+      "latitude": 58.571,
+      "longitude": 14.557,
+      "value": []
+    },
+    {
+      "key": "98040",
+      "name": "Berga",
+      "owner": "Försvarsmakten",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1267401600000,
+      "to": 1746001210000,
+      "height": 4.3,
+      "latitude": 59.068,
+      "longitude": 18.115,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "12.9",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "151280",
+      "name": "Bjuröklubb A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 817776000000,
+      "to": 1746001210000,
+      "height": 35.41,
+      "latitude": 64.4799,
+      "longitude": 21.5754,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "3.3",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "178820",
+      "name": "Björkudden",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1080777600000,
+      "to": 1746001210000,
+      "height": 380.481,
+      "latitude": 67.3936,
+      "longitude": 18.7131,
+      "value": []
+    },
+    {
+      "key": "92130",
+      "name": "Blomskog A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 820454400000,
+      "to": 1746001210000,
+      "height": 169.645,
+      "latitude": 59.2213,
+      "longitude": 12.0754,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "11.6",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "132110",
+      "name": "Blåhammaren A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1285891200000,
+      "to": 1746001210000,
+      "height": 1086.952,
+      "latitude": 63.1854,
+      "longitude": 12.1734,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "-1.5",
+          "quality": "G"
+        }
+      ]
+    },
+
+    {
+      "key": "25061",
+      "name": "Vittangi",
+      "owner": "SMHI",
+      "ownerCategory": "NATIONAL",
+      "measuringStations": "ADDITIONAL",
+      "from": 1630454400000,
+      "to": 1746001211000,
+      "height": 0.0,
+      "latitude": 67.6673,
+      "longitude": 21.6757,
+      "value": []
+    },
+    {
+      "key": "81350",
+      "name": "Väderöarna A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 957139200000,
+      "to": 1746001210000,
+      "height": 22.356,
+      "latitude": 58.576,
+      "longitude": 11.0661,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "10.9",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "96350",
+      "name": "Västerås",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1062374400000,
+      "to": 1746001210000,
+      "height": 15.836,
+      "latitude": 59.5972,
+      "longitude": 16.6001,
+      "value": []
+    },
+    {
+      "key": "75003",
+      "name": "Västerås västra GBG",
+      "owner": "SMHI",
+      "ownerCategory": "NATIONAL",
+      "measuringStations": "ADDITIONAL",
+      "from": 1725148800000,
+      "to": 1746001211000,
+      "height": 0.0,
+      "latitude": 59.5959,
+      "longitude": 16.5086,
+      "value": []
+    },
+    {
+      "key": "138070",
+      "name": "Västmarkum A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 817776000000,
+      "to": 1746001210000,
+      "height": 141.392,
+      "latitude": 63.1243,
+      "longitude": 18.2518,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "1.4",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "64510",
+      "name": "Växjö A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 807235200000,
+      "to": 1746001210000,
+      "height": 198.861,
+      "latitude": 56.8463,
+      "longitude": 14.8296,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "13.0",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "173900",
+      "name": "Ylinenjärvi A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 817776000000,
+      "to": 1746001210000,
+      "height": 133.672,
+      "latitude": 66.6223,
+      "longitude": 23.4635,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "3.2",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "124110",
+      "name": "Ytterhogdal",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 865123200000,
+      "to": 1746001210000,
+      "height": 263.585,
+      "latitude": 62.1817,
+      "longitude": 14.9478,
+      "value": []
+    },
+    {
+      "key": "22046",
+      "name": "Ytterturingen2",
+      "owner": "SMHI",
+      "ownerCategory": "NATIONAL",
+      "measuringStations": "ADDITIONAL",
+      "from": 1556668800000,
+      "to": 1746001211000,
+      "height": 0.0,
+      "latitude": 62.4295,
+      "longitude": 14.9926,
+      "value": []
+    },
+    {
+      "key": "114140",
+      "name": "Älvdalen A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 807235200000,
+      "to": 1746001210000,
+      "height": 251.633,
+      "latitude": 61.2536,
+      "longitude": 14.0355,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "10.2",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "161910",
+      "name": "Älvsbyn A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 812505600000,
+      "to": 1746001210000,
+      "height": 43.384,
+      "latitude": 65.6691,
+      "longitude": 21.062,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "6.0",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "62180",
+      "name": "Ängelholm-Barkåkra Flygplats",
+      "owner": "Ängelholm Helsingborgs flygplats Holding AB",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1199145600000,
+      "to": 1746001210000,
+      "height": 17.634,
+      "latitude": 56.2926,
+      "longitude": 12.8558,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "12.7",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "106570",
+      "name": "Åmot A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 807235200000,
+      "to": 1746001210000,
+      "height": 161.678,
+      "latitude": 60.9614,
+      "longitude": 16.4279,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "5.6",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "76001",
+      "name": "Ånge GBG",
+      "owner": "SMHI",
+      "ownerCategory": "NATIONAL",
+      "measuringStations": "ADDITIONAL",
+      "from": 1725148800000,
+      "to": 1746001211000,
+      "height": 0.0,
+      "latitude": 62.5255,
+      "longitude": 15.6442,
+      "value": []
+    },
+    {
+      "key": "147090",
+      "name": "Åsele A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 817776000000,
+      "to": 1746001210000,
+      "height": 307.712,
+      "latitude": 64.165,
+      "longitude": 17.3153,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "2.7",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "94050",
+      "name": "Åtorp",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": -283996800000,
+      "to": 1746001210000,
+      "height": 98.8,
+      "latitude": 59.0963,
+      "longitude": 14.3652,
+      "value": []
+    },
+    {
+      "key": "77210",
+      "name": "Ölands norra udde A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 807235200000,
+      "to": 1746001210000,
+      "height": 2.762,
+      "latitude": 57.3671,
+      "longitude": 17.0954,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "11.6",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "66110",
+      "name": "Ölands södra udde A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 815184000000,
+      "to": 1746001210000,
+      "height": 1.53,
+      "latitude": 56.1977,
+      "longitude": 16.4005,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "10.8",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "95130",
+      "name": "Örebro Flygplats",
+      "owner": "Flygplatsbolag (kommun/landsting)",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1259625600000,
+      "to": 1746001210000,
+      "height": 53.0,
+      "latitude": 59.2289,
+      "longitude": 15.0455,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "13.0",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "138240",
+      "name": "Örnsköldsviks Flygplats",
+      "owner": "Örnsköldsvik Airport AB",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1199145600000,
+      "to": 1746001210000,
+      "height": 107.0,
+      "latitude": 63.4119,
+      "longitude": 18.9797,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "1.4",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "108320",
+      "name": "Örskär A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 815184000000,
+      "to": 1746001210000,
+      "height": 6.539,
+      "latitude": 60.5256,
+      "longitude": 18.3729,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "4.2",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "78280",
+      "name": "Östergarnsholm A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 820454400000,
+      "to": 1746001210000,
+      "height": 8.127,
+      "latitude": 57.4408,
+      "longitude": 18.9839,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "12.6",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "134110",
+      "name": "Östersund-Frösön Flygplats",
+      "owner": "Swedavia",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 0,
+      "to": 1746001210000,
+      "height": 375.8,
+      "latitude": 63.1981,
+      "longitude": 14.4869,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "4.5",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "102170",
+      "name": "Östmark-Åsarna",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 1383264000000,
+      "to": 1746001210000,
+      "height": 133.264,
+      "latitude": 60.2787,
+      "longitude": 12.8534,
+      "value": []
+    },
+    {
+      "key": "172770",
+      "name": "Överkalix-Svartbyn A",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 817776000000,
+      "to": 1746001210000,
+      "height": 61.024,
+      "latitude": 66.2618,
+      "longitude": 22.8427,
+      "value": [
+        {
+          "date": 1746000000000,
+          "value": "4.1",
+          "quality": "G"
+        }
+      ]
+    },
+    {
+      "key": "173810",
+      "name": "Övertorneå",
+      "owner": "SMHI",
+      "ownerCategory": "CLIMATE",
+      "measuringStations": "CORE",
+      "from": 991353600000,
+      "to": 1746001210000,
+      "height": 59.508,
+      "latitude": 66.386,
+      "longitude": 23.6155,
+      "value": []
+    }
+  ]
+}
